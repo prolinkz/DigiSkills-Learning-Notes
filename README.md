@@ -29,23 +29,39 @@ Welcome to my repository for tracking DigiSkills UI/UX Design and Webflow course
 <details id="section-2-wireframing-and-prototyping">
 <summary><b>Section 2: Wireframing and Prototyping</b></summary>
 <br>
+### Topic 24 | Why Research Needs Planning?
+* First define the Goal. 
+* **Research Methodologies**
+-   Interviews
+-   survey
+-   Comparative Analysis
 
-### Topic 24 - Creating Low-Fidelity Wireframes
-* **Notes:** Sketching layouts and setting up basic frames.
-* **Figma Link:** [View Low-Fi Wireframe Project](https://figma.com)
+  <ul> **Planning means;** 
+    <li>What is our Goal?</li> 
+    <li>Who is the user?</li> 
+    <li>What questions should be asked from users?</li>
+    <li>Why are questions being asked? </li>
+    <li> What are we looking for?</li>
+  </ul>
 
-- **Topic 25 - Creating Low-Fidelity Wireframes**
-  - Sketching layout ideas on paper and digital tools.
-  - Setting up frames in Figma.
+#### DESIGN THINKING 
+- User Needs
+- Business Needs
+- TECH
 
-### Topic 26 - Designing High-Fidelity Mockups
-* **Notes:** Applying color theory, typography scales, and UI kits.
-* **Figma Link:** [View High-Fi Prototype](https://figma.com)
 </details>
 
 <details id="section-3-introduction-to-webflow">
 <summary><b>Section 3: Introduction to Webflow</b></summary>
 <br>
+### Topic 24 - Creating Low-Fidelity Wireframes
+* **Notes:** Sketching layouts and setting up basic frames.
+* **Figma Link:** [View Low-Fi Wireframe Project](https://figma.com)
+
+
+### Topic 26 - Designing High-Fidelity Mockups
+* **Notes:** Applying color theory, typography scales, and UI kits.
+* **Figma Link:** [View High-Fi Prototype](https://figma.com)
 
 ### Topic 40 - Webflow Basics and Box Model
 * **Notes:** Mastering margins, padding, and the HTML structure within Webflow.
@@ -66,23 +82,5 @@ Welcome to my repository for tracking DigiSkills UI/UX Design and Webflow course
 </details>
 
 
-## Topic 24 | Why Research Needs Planning?
-- First define the Goal. 
-- Research Methodologies
--   Interviews
--   survey
--   Comparative Analysis
 
-  <ul> Planning means; 
-    <li>What is our Goal?</li> 
-    <li>Who is the user?</li> 
-    <li>What questions should be asked from users?</li>
-    <li>Why are questions being asked? </li>
-    <li> What are we looking for?</li>
-  </ul>
-
-#### DESIGN THINKING 
-- User Needs
-- Business Needs
-- TECH
 
