@@ -1,3 +1,45 @@
+# 🚀 DigiSkills Learning Roadmap & Notes
+
+Welcome to my central repository for tracking my DigiSkills courses. This dashboard acts as a hub linking to interactive Jupyter Notebooks (`.ipynb`) tailored for each specialized track.
+
+---
+
+## 🗺️ Course Dashboard
+
+Select a course below to view the interactive notebook, lecture-by-lecture breakdown, and code implementations.
+
+| Course Track | Description | Progress Tracker | Notebook Link | Status |
+| :--- | :--- | :--- | :---: | :---: |
+| **🎨 UI/UX & Webflow** | User research, wireframing, Figma mockups, and Webflow logic. | ![Progress](https://geps.dev%) | [Open Notebook ↗](./ui_ux_webflow.ipynb) | ⏳ In Progress |
+| **🐍 Learn Python** | Core syntax, data structures, scripting, and automation logic. | ![Progress](https://geps.dev%) | [Open Notebook ↗](./learn_python.ipynb) | ⏳ In Progress |
+| **💻 MERN Stack Development** | Full-stack development using MongoDB, Express, React, and Node.js. | ![Progress](https://geps.dev%) | [Open Notebook ↗](./mern_stack_development.ipynb) | ⏳ In Progress |
+
+> 💡 **Tip:** To update your progress, change the number in the progress link. For example, changing `/progress/0` to `/progress/45` will update the bar visually to 45%.
+
+---
+
+## 🛠️ How to Use This Repository
+
+### 1. View Directly on GitHub
+GitHub automatically renders `.ipynb` files! Simply click any of the **Open Notebook** links in the table above to view the notes and code snippets directly in your browser.
+
+### 2. Run Interactively (Locally)
+To run the notebooks locally, execute code cells, and interact with the collapsible layouts:
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com
+   ```
+2. Open the project folder in **Visual Studio Code**.
+3. Install the **Jupyter Extension** in VS Code.
+4. Click on any `.ipynb` file and select your Python kernel to start practicing.
+
+---
+*Created and maintained by [@YourGitHubUsername](https://github.com)*
+
+
+
+
 # DigiSkills UI/UX & Webflow Course Notes
 
 Welcome to my repository for tracking DigiSkills UI/UX Design and Webflow course progress. This document contains detailed notes, project links, and code snippets organized lecture by lecture.
@@ -81,6 +123,7 @@ Welcome to my repository for tracking DigiSkills UI/UX Design and Webflow course
   }
   ```
 </details>
+
 
 
 
