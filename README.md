@@ -29,6 +29,7 @@ Welcome to my repository for tracking DigiSkills UI/UX Design and Webflow course
 <details id="section-2-wireframing-and-prototyping">
 <summary><b>Section 2: Wireframing and Prototyping</b></summary>
 <br>
+  
 ### Topic 24 | Why Research Needs Planning?
 * First define the Goal. 
 * **Research Methodologies**
