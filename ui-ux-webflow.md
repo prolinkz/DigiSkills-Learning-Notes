@@ -108,3 +108,103 @@ Secondary research is typically conducted for industry insights rather than indi
 
 Secondary research is most effective, especially in early project stages. It highlights how it guides decisions before designing features for a new gaming store.
 
+### Topic 39 | Competitive Audits — Purpose & Mindset
+
+This topic introduces the purpose of competitive audits and emphasizes focusing on patterns, positioning, and user experience. It highlights why the goal is not to copy visuals but to understand strategic differences across competitors.
+
+TO understand how competitor's are operating.
+**Competitive Analysis Focused Area**
+- Product (Features)
+- User Flow
+- Information Hirarchy 
+- Trust Signals
+- Language
+- Checkout Experience
+
+**Common Mistakes in Competitive Audits**
+- copying UI components (Don't fall in love only for beautiful UI designs)
+- choosing the "prettiest" site (like in food industry, some website don;t have great UI, they have/deliver delicious tasty foods)
+- ignoring Context and Constraints. (some website don't have great UI, but they have great experience)
+- Assuming Competitors are correct.
+
+#### Topic 40 | How to Conduct a Competitive Audit?
+
+This topic explains how to perform a structured competitive audit using a step by step approach. It highlights evaluating local and global gaming eCommerce websites through a Figma template.
+
+- Prepare compititors SWOT analysis.
+- Inspect Web UI, flow, features, and product catalog
+- Know about competitor's from Journals, Reports, surveys as secondary research.
+
+
+### Topic 41 | Making Sense of Competitive Findings with AI
+
+This topic highlights how AI can help compare checkout flows, filters, and trust signals across competitors. It explains how trainees can identify gaps and opportunities using structured comparisons.
+
+
+### Topic 43 | Planning & Conducting Stakeholder Interviews
+
+This topic introduces how to plan and conduct professional stakeholder interviews. It explains gathering goals, constraints, and expectations to guide design direction.
+
+***Before Interview**
+- know who you are inteerviewing?
+- Why you're interviewing them?
+- What decision s this will perform?
+
+**During the interview**
+- Only discuss about the **Goal**.
+- What are the contrainst/limitations
+- What are the Risks.
+- Success Metrices.
+
+**After the interview**
+- Summarize Insights
+- Share back key themes
+
+### Topic 44 | Synthesizing Secondary Research
+
+This topic explains how to combine competitive insights and stakeholder input into a clear design direction. It highlights how synthesis strengthens decision making for the gaming eCommerce store.
+
+<img width="1141" height="621" alt="image" src="https://github.com/user-attachments/assets/3d1de6a0-217b-4ae5-b7ab-83765b07526e" />
+
+<img width="948" height="399" alt="image" src="https://github.com/user-attachments/assets/c301fab7-0b98-4481-8dd7-07d4ff6aa707" />
+
+### Topic 45 | Why Research Ops & Ethics Matter?
+
+This topic introduces the importance of ethical research practices. It explains how protecting users, teams, and organizations a core responsibility in professional UX work is.
+
+<img width="596" height="547" alt="image" src="https://github.com/user-attachments/assets/e483abc3-da68-4874-9b9a-580216869e5c" />
+
+<img width="791" height="530" alt="image" src="https://github.com/user-attachments/assets/dd678fc7-fc42-46ef-8934-6c3ad27c84f5" />
+
+
+### Topic 46 | Research Ops — What It Actually Includes?
+
+This topic explains the components of research operations, including consent, data storage, documentation, and coordination. It highlights the behind the scenes systems that support reliable research.
+
+**Research Ops** 
+- Research Ops is everything that makes research possible at scale.
+- Research Ops includes: Consent & Permissions, Scheduling, Data Storage, Documetation, Coordination.
+
+### Topic 47 | Bias in Research — Where It Comes From?
+
+"Main ny kya sunna, or ap ny kya samja", is known as Bias.
+
+### Topic 48 | Reducing Bias in Practice
+
+This topic explains practical techniques to reduce bias during planning, interviewing, and analysis. It highlights how structured methods help maintain objectivity.
+**Before Research**
+- Divese Participants
+- Clear Obbjectives
+- Neutral Questions
+
+**During Research**
+- Let Users speak first.
+- Avoid correcting users.
+- Ask follow-ups questions
+
+**After Research**
+- Users Quotes (use terms/words user actually used)
+- Cluster Data Collaboratively as a team
+- Challenge Assumptions
+
+
